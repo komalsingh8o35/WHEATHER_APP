@@ -1,4 +1,4 @@
-# WHEATHER_APP
+# WEATHER_APP
 Building a weather app using HTML, CSS, and JavaScript is a fantastic project that combines web development skills with practical application.
 When building a weather app, I encounter several interesting challenges and learning opportunities, such as:
 
